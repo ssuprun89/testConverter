@@ -7,10 +7,10 @@
 Initialize the project and Python virtual environment
 ```bash
 git clone https://github.com/ssuprun89/testConverter
-cd ai-lab-api
+cd testConverter
 python3 -m venv .venv
 source .venv/bin/activate
-pip insall poetry
+pip install poetry
 poetry install
 ```
 
